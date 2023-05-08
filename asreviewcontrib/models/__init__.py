@@ -1,0 +1,1 @@
+from asreviewcontrib.models.distiluse_base_multilingual import MultilingualSentenceTransformer
