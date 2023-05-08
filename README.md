@@ -42,7 +42,7 @@ Test the feature extractor with:
 asreview simulate benchmark:van_de_Schoot_2017 -e multilingual -m svm
 ```
 
-Please note that, as with all sentence transformers, this model produces negative vector values. Consequently, it is not compatible with Naive Bayes classifiers, which require non-negative feature values.
+>Please note that, as with all sentence transformers, this model produces negative vector values. Consequently, it is not compatible with Naive Bayes classifiers, which require non-negative feature values.
 
 ## License
 
