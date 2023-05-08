@@ -18,7 +18,8 @@ setup(
     keywords="systematic review multilingual feature extractor",
     packages=find_namespace_packages(include=["asreviewcontrib.*"]),
     python_requires="~=3.6",
-    install_requires=["sklearn", "asreview>=0.13", "sentence_transformers~=2.2.2"],
+    install_requires=["asreview>=0.13",
+                      "sentence_transformers~=2.2.2"],
     entry_points={
         "asreview.models.classifiers": [
             # define classifier algorithms
