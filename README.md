@@ -17,7 +17,7 @@ pip install -U sentence-transformers
 Install the multilingual feature extractor with:
 
 ```bash
-pip install https://github.com/jteijema/asreview-multilingual-feature-extractor/archive/master.zip
+pip install https://github.com/jteijema/multilingual-feature-extractor/archive/master.zip
 ```
 
 ## Usage
